@@ -1,10 +1,8 @@
-FROM python:3.7-alpine
+FROM python:3.8-slim-buster
 WORKDIR /scrap
 COPY ./requirements.txt .
-RUN apt-get update && \
-    apt-get -y install python3-pandas
 RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 ENV scrap 1
 COPY . .
 CMD ["python", "src/app.py"]

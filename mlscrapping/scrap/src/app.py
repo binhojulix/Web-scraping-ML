@@ -1,12 +1,9 @@
-"""Módulo principal.
-"""
+from produtoBuilder import ProdutoBuilder
 
-
-def main():
-    """Função principal da aplicação.
-    """
-    print("estou rodando")
 
 
 if __name__ == "__main__":
-    main()
+    produtoBuilder = ProdutoBuilder()
+    produtoBuilder.com_titulo("produto ")
+    produto = produtoBuilder.build()
+    print(produto.preco)

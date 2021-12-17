@@ -3,3 +3,6 @@ jupyter.bat
 run.bat
 run.sh
 README.md
+.pytest_cache
+.ipynb_checkpoints
+__pycache__
