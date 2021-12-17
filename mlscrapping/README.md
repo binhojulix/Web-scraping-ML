@@ -8,5 +8,9 @@
 
 # TO RUN ON WINDOWS
 
-`execute run.bat`
+`./run`
+
+# TO RUN ON LINUX
+
+`sh run.sh`
 
