@@ -1,4 +1,5 @@
 pytest
+pytest-base-url
 beautifulsoup4
 pandas
 numpy

@@ -1,3 +1,4 @@
+
 class Produto:
     
     def __init__(self, reviews_amount, cores_disponiveis, frete, titulo, preco):
@@ -43,7 +44,7 @@ class Produto:
     
     @property
     def preco(self):
-        return self.__preco
+        return self.preco
     
     @preco.setter
     def preco(self, preco):

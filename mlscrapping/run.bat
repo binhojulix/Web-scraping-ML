@@ -13,3 +13,4 @@ if not exist venv\ (
 CALL venv\Scripts\pip install -r scrap/requirements.txt
 CALL venv\Scripts\pytest scrap
 CALL venv\Scripts\python scrap\src\app.py
+
