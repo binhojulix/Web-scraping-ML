@@ -36,14 +36,14 @@ to run on windows `./run`.
 to run on  linux `sh run.sh`.
 
 
-### Un caso en el que usarías procesos para resolver un problema y por qué.
+#### Un caso en el que usarías procesos para resolver un problema y por qué.
 
  `mejorar el rendimiento del software o hardware, por ejemplo:`
 
 `guardar datos en múltiples bases de datos`
 
 
-###	Un caso en el que usarías threads para resolver un problema y por qué.
+####	Un caso en el que usarías threads para resolver un problema y por qué.
 
  `en procesos paralelos o concordantes.`
 
@@ -53,10 +53,13 @@ to run on  linux `sh run.sh`.
 
 
 
-###	Un caso en el que usarías corrutinas para resolver un problema y por qué.
+####    Un caso en el que usarías corrutinas para resolver un problema y por qué.
 
  `para mejorar el desempeño de tareas que procesan una gran cantidad de E / S` .
 
+
+ ####   Si tuvieras 1.000.000 de elementos y tuvieras que consultar para cada uno de ellos información en una API HTTP. ¿Cómo lo harías? Explicar
+`para mejorar el desempeño de tareas que procesan una gran cantidad de E / S` .
  
 
 
