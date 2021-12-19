@@ -10,8 +10,11 @@ def textStract():
 
 
 def test_decimal(textStract):
+    number = "1.333"
+    result = textStract.convertDouble(number)
+    compare = round(float(number), 2)
     
-    assert 200 == 200
+    assert compare == result
 
 
 
