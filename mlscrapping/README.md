@@ -24,23 +24,15 @@
     │   │   ├── test_scrap.py
     │   │   └── test_textStract.py
 
-### app.py
 
-if __name__ == "__main__":
-   scrap = Scrap(5)
-   scrap.start()
-  
+## Como usar
 
-# TO RUN ON DOCKER
-
-`docker-compose up`
+faça um `git clone` deste repositório primeiramente. Então, faça `cd Web-scraping-ML/mlscrapping`.
+para executar com docker `docker-compose up`.
+para executar no windows `./run`.
+para executar no linux `sh run.sh`.
 
 
-# TO RUN ON WINDOWS
+## Próximos passos
 
-`./run`
-
-# TO RUN ON LINUX
-
-`sh run.sh`
-
+- _Disponilizar Kafka 
