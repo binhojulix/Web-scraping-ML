@@ -37,7 +37,11 @@ to run on  linux `sh run.sh`.
 
 
 ### Un caso en el que usarías procesos para resolver un problema y por qué.
- `docker-compose up`
+
+ `mejorar el rendimiento del software o hardware, por ejemplo:`
+
+`guardar datos en múltiples bases de datos`
+
 
 ###	Un caso en el que usarías threads para resolver un problema y por qué.
 
@@ -50,9 +54,10 @@ to run on  linux `sh run.sh`.
 
 
 ###	Un caso en el que usarías corrutinas para resolver un problema y por qué.
- `para melhorar o desempenho da tarefa que processsam um grande número de E/S` .
 
- `Melhorar o desempenho da taxa de transferência de aplicativos Python no Azure Functions` .
+ `para mejorar el desempeño de tareas que procesan una gran cantidad de E / S` .
+
+ 
 
 
 
