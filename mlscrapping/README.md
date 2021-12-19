@@ -1,7 +1,7 @@
 # Web scraping ML
 
 
-## A árvore do diretório
+## tree
 
     ├── README.md
     ├── docker-compose.yml
@@ -25,9 +25,9 @@
     │   │   └── test_textStract.py
 
 
-## Como usar
+## how to use
 
-faça um `git clone` deste repositório primeiramente. Então, faça `cd Web-scraping-ML/mlscrapping`.
+cloen this repository, type `cd Web-scraping-ML/mlscrapping`.
 
 to run on docker `docker-compose up`.
 
@@ -44,6 +44,6 @@ to run on  linux `sh run.sh`.
 
 
 
-## Próximos passos
+## Next step
 
 - _Disponilizar Kafka 
