@@ -1,13 +1,16 @@
 # Webscrapping ML
 
 
-## 1.1. - A árvore do diretório
+## A árvore do diretório
 
     ├── README.md
     ├── docker-compose.yml
     ├── run.bat
     ├── run.sh
     ├── scrap
+    │   ├── requirements.txt
+    │   ├── Dockerfile
+    │   ├── setup.py
     │   ├── src
     │   │   ├── app.py
     │   │   └── conftest.py
@@ -21,7 +24,12 @@
     │   │   ├── test_scrap.py
     │   │   └── test_textStract.py
 
+### app.py
 
+if __name__ == "__main__":
+   scrap = Scrap(5)
+   scrap.start()
+  
 
 # TO RUN ON DOCKER
 
