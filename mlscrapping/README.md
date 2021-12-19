@@ -1,4 +1,4 @@
-# Webscrapping ML
+# Web scraping ML
 
 
 ## A árvore do diretório
@@ -28,9 +28,20 @@
 ## Como usar
 
 faça um `git clone` deste repositório primeiramente. Então, faça `cd Web-scraping-ML/mlscrapping`.
-para executar com docker `docker-compose up`.
-para executar no windows `./run`.
-para executar no linux `sh run.sh`.
+
+to run on docker `docker-compose up`.
+
+to run on windows `./run`.
+
+to run on  linux `sh run.sh`.
+
+
+## Un caso en el que usarías procesos para resolver un problema y por qué.
+
+##	Un caso en el que usarías threads para resolver un problema y por qué.
+
+##	Un caso en el que usarías corrutinas para resolver un problema y por qué.
+
 
 
 ## Próximos passos
