@@ -1,4 +1,4 @@
 class TextStract:
-    
-    def getMarca():
+
+    def getMarca(self):
         return "samsung"
