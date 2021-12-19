@@ -27,7 +27,7 @@
 
 ## how to use
 
-cloen this repository, type `cd Web-scraping-ML/mlscrapping`.
+cloen this repository, type `cd Web-scraping-ML`.
 
 to run on docker `docker-compose up`.
 
@@ -40,6 +40,7 @@ to run on  linux `sh run.sh`.
  `docker-compose up`
 
 ###	Un caso en el que usarías threads para resolver un problema y por qué.
+
  `en procesos paralelos o concordantes.`
 
  `ex: request an api in  main thread of android .`
@@ -49,10 +50,14 @@ to run on  linux `sh run.sh`.
 
 
 ###	Un caso en el que usarías corrutinas para resolver un problema y por qué.
- `docker-compose up`
+ `para melhorar o desempenho da tarefa que processsam um grande número de E/S` .
+
+ `Melhorar o desempenho da taxa de transferência de aplicativos Python no Azure Functions` .
 
 
 
 ## Next step
-
+- _Criar uma pipeline com apache beam
 - _Disponilizar Kafka 
+
+
