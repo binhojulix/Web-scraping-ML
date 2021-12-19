@@ -63,7 +63,8 @@ to run on  linux `sh run.sh`.
 ###     Optimización de recursos del sistema operativo
 
 ####   Si tuvieras 1.000.000 de elementos y tuvieras que consultar para cada uno de ellos información en una API HTTP. ¿Cómo lo harías? Explicar
-`para mejorar el desempeño de tareas que procesan una gran cantidad de E / S` .
+
+`limitaría la cantidad de elementos solicitados a través de la paginación mediante consultas` .
  
 
 
