@@ -35,7 +35,10 @@ to run on windows `./run`.
 
 to run on  linux `sh run.sh`.
 
+##  Consigna
 
+
+### Procesos, hilos y corrutinas
 #### Un caso en el que usarías procesos para resolver un problema y por qué.
 
  `mejorar el rendimiento del software o hardware, por ejemplo:`
@@ -57,8 +60,9 @@ to run on  linux `sh run.sh`.
 
  `para mejorar el desempeño de tareas que procesan una gran cantidad de E / S` .
 
+###     Optimización de recursos del sistema operativo
 
- ####   Si tuvieras 1.000.000 de elementos y tuvieras que consultar para cada uno de ellos información en una API HTTP. ¿Cómo lo harías? Explicar
+####   Si tuvieras 1.000.000 de elementos y tuvieras que consultar para cada uno de ellos información en una API HTTP. ¿Cómo lo harías? Explicar
 `para mejorar el desempeño de tareas que procesan una gran cantidad de E / S` .
  
 
