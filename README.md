@@ -36,10 +36,10 @@ to run on windows `./run`.
 to run on  linux `sh run.sh`.
 
 
-## Un caso en el que usarías procesos para resolver un problema y por qué.
+### Un caso en el que usarías procesos para resolver un problema y por qué.
  `docker-compose up`
 
-##	Un caso en el que usarías threads para resolver un problema y por qué.
+###	Un caso en el que usarías threads para resolver un problema y por qué.
  `en procesos paralelos o concordantes.`
 
  `ex: request an api in  main thread of android .`
@@ -48,7 +48,7 @@ to run on  linux `sh run.sh`.
 
 
 
-##	Un caso en el que usarías corrutinas para resolver un problema y por qué.
+###	Un caso en el que usarías corrutinas para resolver un problema y por qué.
  `docker-compose up`
 
 
